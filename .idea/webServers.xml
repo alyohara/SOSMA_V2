@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="415e453f-1c90-49c9-895c-9a69f1c4ca4a" name="sosmacom_sis" url="http://www.sosma.com.ar">
+        <fileTransfer host="www.sosma.com.ar" port="21" rootFolder="/pre.sis.sosma.com.ar">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

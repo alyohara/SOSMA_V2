@@ -1,0 +1,1 @@
+[12-Aug-2021 19:44:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Can't use function return value in write context in /home/sosmacom/sis.sosma.com.ar/application/models/Companies.php on line 197
